@@ -1,0 +1,12 @@
+/bin/
+/.settings/
+/.classpath
+/.project
+/build/
+/.idea/
+/.gradle/
+/app/build/
+/config/build/
+/discovery/build/
+/service/build/
+gradle.properties

@@ -1,0 +1,16 @@
+spring:
+    cloud:
+        config:
+            uri: http://localhost:8888
+
+    application:
+        name:  main-service
+
+server:
+    port: 8888
+
+eureka:
+    client:
+        serviceUrl:
+            defaultZone: http://localhost:1111/eureka/
+
